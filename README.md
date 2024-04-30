@@ -1,9 +1,13 @@
 # Somanathan P 🚀
 
-👨‍💻 Passionate B.Tech-IT graduate | Software Developer | Data Enthusiast 📊
+👨‍💻 Passionate B.Tech-IT graduate | Software Developer 
 
 ## About Me 🌟
 I'm a diligent and enthusiastic graduate with a strong foundation in computer science. My interests lie in software development, data analysis, and web technologies. Eager to contribute effectively in an innovative and collaborative environment.
+
+## Objective 💡
+Objective
+To enhance my skills and knowledge, I am currently focused on learning the necessary technologies to become a proficient full stack developer. I am excited about creating impactful solutions and collaborating with like-minded professionals.
 
 ## Education 🎓
 - **B.Tech in Information Technology**
