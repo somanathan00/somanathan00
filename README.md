@@ -8,7 +8,7 @@
 <p align="center">
   Chennai, India <br>
   📞 7904738428 | ✉️ somanathan0709@gmail.com <br>
-  🌐 [LinkedIn](https://www.linkedin.com/in/somanathan-p-b48a1b246) | [GitHub](https://github.com/somanathan00/my-projects) | [LeetCode](https://leetcode.com/somanathan00/) | [Coding Ninjas Profile](https://www.naukri.com/code360/profile/9548d422-62b2-4cff-8fb1-69d15518e73d)
+  🌐 [LinkedIn](https://www.linkedin.com/in/somanathan-p-b48a1b246)  | [LeetCode](https://leetcode.com/somanathan00/) | [Coding Ninjas Profile](https://www.naukri.com/code360/profile/9548d422-62b2-4cff-8fb1-69d15518e73d)
 </p>
 
 <!-- Education -->
