@@ -15,16 +15,6 @@ To enhance my skills and knowledge, I am currently focused on learning the neces
   - CGPA: **8.2** 📚
   - 2019-2023
 
-- **Higher Secondary Education (XII)**
-  - Zion Matriculation Higher Secondary School, Chennai
-  - Percentage: **74.4%** 📖
-  - 2018-2019
-
-- **Secondary Education (X)**
-  - Zion Matriculation Higher Secondary School, Chennai
-  - Percentage: **91.4%** 📚
-  - 2016-2017
-
 ## Technical Skills 🛠️
 - **Programming**: Python, C++
 - **Software Development**: SDLC, Agile Methodologies
