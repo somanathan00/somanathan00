@@ -1,39 +1,48 @@
-<!-- Header -->
-<h1 align="center">Somanathan P</h1>
+# Somanathan P
 
-<!-- About Me -->
-<p align="center">Passionate B.Tech-IT graduate with a keen interest in software development. Proficient in Python, C++, and web development. Eager to contribute effectively as a software developer in an innovative environment.</p>
+👨‍💻 Passionate B.Tech-IT graduate | Software Developer 
 
-<!-- Contact Information -->
-<p align="center">
-  Chennai, India <br>
-  📞 7904738428 | ✉️ somanathan0709@gmail.com <br>
-  🌐 [LinkedIn](https://www.linkedin.com/in/somanathan-p-b48a1b246)  | [LeetCode](https://leetcode.com/somanathan00/) | [Coding Ninjas Profile](https://www.naukri.com/code360/profile/9548d422-62b2-4cff-8fb1-69d15518e73d)
-</p>
+## About Me
+I'm a diligent and enthusiastic graduate with a strong foundation in computer science. My interests lie in software development, data analysis, and web technologies. Eager to contribute effectively in an innovative and collaborative environment.
 
-<!-- Education -->
 ## Education
 - **B.Tech in Information Technology**
   - Prince Shri Venkateshwara Padmavathy Engineering College, Chennai
   - CGPA: 8.2
+  - 2019-2023
 
-<!-- Technical Skills -->
+- **Higher Secondary Education (XII)**
+  - Zion Matriculation Higher Secondary School, Chennai
+  - Percentage: 74.4%
+  - 2018-2019
+
+- **Secondary Education (X)**
+  - Zion Matriculation Higher Secondary School, Chennai
+  - Percentage: 91.4%
+  - 2016-2017
+
 ## Technical Skills
-- **Languages:** Python, C++
-- **Web Development:** HTML, CSS, Flask, JavaScript
-- **Data Analysis:** Python, MySQL, Pandas, Matplotlib
-- **Version Control:** Git, GitHub
-- **Tools:** Docker, Kubernetes
+- **Programming**: Python, C++
+- **Software Development**: SDLC, Agile Methodologies
+- **Web Development**: HTML, CSS, basic knowledge of Flask, API, JavaScript
+- **Data Analysis**: Python, MySQL, Numpy, Pandas, Matplotlib
+- **Version Control**: Git, GitHub
+- **DevOps**: Basic knowledge of Docker and Kubernetes
 
-<!-- Projects -->
 ## Projects
-### Skill and Job Recommender Application
-Developed an end-to-end web application displaying job openings based on user skillset. Integrated chatbot for user interaction and job search API for real-time data.
+1. **Skill and Job Recommender Application**
+   - Developed an end-to-end web app that displays current job openings based on user skillset.
+   - User information stored in a database; alerts sent for relevant openings.
+   - Chatbot provides personalized recommendations.
+   - Real-time job data fetched using a job search API.
 
-### Fake Job Prediction
-Built a machine learning model to detect fraudulent job postings. Analyzed data to identify patterns and prevent job seekers from falling victim.
+2. **Fake Job Prediction**
+   - Machine learning model to predict job authenticity.
+   - Factors considered: job description, salary, location.
 
-<!-- Languages -->
-## Languages
-- English
-- Tamil
+## Connect with Me
+- LinkedIn
+- GitHub
+- LeetCode
+
+Let's code together! 🚀
