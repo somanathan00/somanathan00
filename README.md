@@ -1,39 +1,35 @@
-# Hi there! 👋 I'm Somanathan P.
+# Somanathan P
 
 ## About Me
-Passionate and diligent B.Tech-IT graduate with a solid foundation in computer science. I'm eager to contribute effectively as a software developer in an innovative and collaborative environment.
+Passionate B.Tech-IT graduate with a keen interest in software development. Proficient in Python, C++, and web development. Eager to contribute effectively as a software developer in an innovative environment.
 
-- 🌱 Proficient in Python, C++, and web development technologies.
-- 📊 Experienced in data analysis and version control.
-- 🚀 Keen interest in software development.
+## Contact Information
+- **Location:** Chennai, India
+- **Phone:** 7904738428
+- **Email:** somanathan0709@gmail.com
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/somanathan-p-b48a1b246)
+- **LeetCode:** [LeetCode Profile](https://leetcode.com/somanathan00/)
+- **Coding Ninjas Profile:** [Coding Ninjas Profile](https://www.naukri.com/code360/profile/9548d422-62b2-4cff-8fb1-69d15518e73d)
 
 ## Education
-- **B.Tech in Information Technology**
-  - Prince Shri Venkateshwara Padmavathy Engineering College, Chennai
-  - CGPA: 8.2
-  - Duration: 2019-2023
+### B.Tech in Information Technology
+- **College:** Prince Shri Venkateshwara Padmavathy Engineering College, Chennai
+- **CGPA:** 8.2
 
 ## Technical Skills
-- **Programming:** Python, C++
-- **Software Development:** SDLC, Agile Methodologies
-- **Web Development:** HTML, CSS, basic knowledge of Flask, API, JavaScript
-- **Data Analysis:** Python, MySQL, NumPy, Pandas, Matplotlib
+- **Languages:** Python, C++
+- **Web Development:** HTML, CSS, Flask, JavaScript
+- **Data Analysis:** Python, MySQL, Pandas, Matplotlib
 - **Version Control:** Git, GitHub
-- **DevOps:** Basic knowledge of Docker and Kubernetes
+- **Tools:** Docker, Kubernetes
 
 ## Projects
-1. **Skill and Job Recommender Application**
-   - Developed an end-to-end web application that displays current job openings based on user skillsets.
-   - Users can interact with a chatbot to receive personalized recommendations.
-   - Utilized a job search API to fetch real-time job data.
+### Skill and Job Recommender Application
+Developed an end-to-end web application displaying job openings based on user skillset. Integrated chatbot for user interaction and job search API for real-time data.
 
-2. **Fake Job Prediction**
-   - Objective: Develop a machine learning model to predict the likelihood of a job being fake or fraudulent.
-   - Factors considered: job description, salary, location, and more.
+### Fake Job Prediction
+Built a machine learning model to detect fraudulent job postings. Analyzed data to identify patterns and prevent job seekers from falling victim.
 
-## Connect with Me
-- LinkedIn
-- GitHub
-- LeetCode
-
-Feel free to explore my repositories and connect! Let's code together. 🚀
+## Languages
+- English
+- Tamil
