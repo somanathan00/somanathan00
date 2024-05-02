@@ -8,6 +8,9 @@ I'm a diligent and enthusiastic graduate with a strong foundation in computer sc
 ## Objective 💡
 Objective
 To enhance my skills and knowledge, I am currently focused on learning the necessary technologies to become a proficient full stack developer. I am excited about creating impactful solutions and collaborating with like-minded professionals.
+- frontend-javascript, React, jquery, HTML, CSS
+- backend- node.js, express, PostgreSQL, RestfulAPI
+- tools- vscode, postman, git
 
 ## Education 🎓
 - **B.Tech in Information Technology**
