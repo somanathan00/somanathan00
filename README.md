@@ -26,16 +26,5 @@ To enhance my skills and knowledge, I am currently focused on learning the neces
 - **Version Control**: Git, GitHub
 - **DevOps**: Basic knowledge of Docker and Kubernetes
 
-## Projects 🚀
-1. **Skill and Job Recommender Application** 🌐
-   - Developed an end-to-end web app that displays current job openings based on user skillset.
-   - User information stored in a database; alerts sent for relevant openings.
-   - Chatbot provides personalized recommendations.
-   - Real-time job data fetched using a job search API.
-
-2. **Fake Job Prediction** 🕵️‍♂️
-   - Machine learning model to predict job authenticity.
-   - Factors considered: job description, salary, location.
-
 
 Let's code together! Happy coding! 🚀👨‍💻
