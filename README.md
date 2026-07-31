@@ -1,30 +1,32 @@
-# Somanathan P 🚀
+# Somanathan P
 
-👨‍💻 Passionate B.Tech-IT graduate | Software Developer 
+**Software Engineer | Backend Development & Generative AI**
 
-## About Me 🌟
-I'm a diligent and enthusiastic graduate with a strong foundation in computer science. My interests lie in software development, data analysis, and web technologies. Eager to contribute effectively in an innovative and collaborative environment.
+## About Me
 
-## Objective 💡
-Objective
-To enhance my skills and knowledge, I am currently focused on learning the necessary technologies to become a proficient full stack developer. I am excited about creating impactful solutions and collaborating with like-minded professionals.
-- frontend-javascript, React, jquery, HTML, CSS
-- backend- node.js, express, PostgreSQL, RestfulAPI
-- tools- vscode, postman, git
+Software Engineer with 2 years of experience in backend development, data engineering, and AI-powered systems using Python. I specialize in building scalable REST APIs, automation pipelines, and production-grade GenAI integrations — including RAG pipelines and LLM-driven data classification.
 
-## Education 🎓
-- **B.Tech in Information Technology**
-  - Prince Shri Venkateshwara Padmavathy Engineering College, Chennai
-  - CGPA: **8.2** 📚
-  - 2019-2023
+## Technical Skills
 
-## Technical Skills 🛠️
-- **Programming**: Python, C++
-- **Software Development**: SDLC, Agile Methodologies
-- **Web Development**: HTML, CSS, basic knowledge of Flask, API, JavaScript
-- **Data Analysis**: Python, MySQL, Numpy, Pandas, Matplotlib
-- **Version Control**: Git, GitHub
-- **DevOps**: Basic knowledge of Docker and Kubernetes
+- **Backend**: Python, Django, Django REST Framework, Flask, FastAPI
+- **AI / GenAI**: OpenAI, Gemini, Claude API, LangChain, RAG Pipelines, Embeddings, Pinecone
+- **Databases**: PostgreSQL, MySQL, MS SQL Server, MongoDB, Firestore
+- **Cloud**: AWS (S3, Lambda, ECR), Azure (Functions, Durable Functions, Logic Apps, Document Intelligence), Firebase (Functions, FCM)
+- **DevOps**: Docker, Git, GitHub Actions, CI/CD
 
+## Currently Learning
 
-Let's code together! Happy coding! 🚀👨‍💻
+Deepening my foundation in Machine Learning, Deep Learning, and Agentic AI systems — building on my production experience with GenAI and LLM integration.
+
+## Education
+
+**B.Tech in Information Technology**
+Prince Shri Venkateshwara Padmavathy Engineering College, Chennai
+CGPA: 8.2 | 2019–2023
+
+## Featured Projects
+
+- **RAG-Based Intelligent Chat Application** — Context-aware Q&A system using LangChain, embeddings, and vector search
+- **AI-Based Data Extraction System** — Automated data extraction pipeline using Python and Selenium with structured storage and validation
+- **Customer Churn Prediction System** — End-to-end ML pipeline with scikit-learn for churn prediction
+
