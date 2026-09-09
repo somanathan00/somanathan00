@@ -1,32 +1,58 @@
-# Somanathan P
+# software engineer
 
-**Software Engineer | Backend Development & Generative AI**
+i build backend systems and production ai. python, django, fastapi, llms.
 
-## About Me
+i care about shipping things that actually work in production — not just demos. rag pipelines, llm integrations, data pipelines that don't fall over.
 
-Software Engineer with 2 years of experience in backend development, data engineering, and AI-powered systems using Python. I specialize in building scalable REST APIs, automation pipelines, and production-grade GenAI integrations — including RAG pipelines and LLM-driven data classification.
+i prefer understanding over memorizing. simple over clever. real production constraints over toy examples.
 
-## Technical Skills
+---
 
-- **Backend**: Python, Django, Django REST Framework, Flask, FastAPI
-- **AI / GenAI**: OpenAI, Gemini, Claude API, LangChain, RAG Pipelines, Embeddings, Pinecone
-- **Databases**: PostgreSQL, MySQL, MS SQL Server, MongoDB, Firestore
-- **Cloud**: AWS (S3, Lambda, ECR), Azure (Functions, Durable Functions, Logic Apps, Document Intelligence), Firebase (Functions, FCM)
-- **DevOps**: Docker, Git, GitHub Actions, CI/CD
+## languages & tools
 
-## Currently Learning
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092e20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-Deepening my foundation in Machine Learning, Deep Learning, and Agentic AI systems — building on my production experience with GenAI and LLM integration.
+![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=flat&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-d97757?style=flat&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logoColor=white)
 
-## Education
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758f?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat&logo=mongodb&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-ffca28?style=flat&logo=firebase&logoColor=black)
 
-**B.Tech in Information Technology**
-Prince Shri Venkateshwara Padmavathy Engineering College, Chennai
-CGPA: 8.2 | 2019–2023
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-ff9900?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078d4?style=flat&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat&logo=githubactions&logoColor=white)
+
+---
+
+## currently shipping
+
+software engineer at riverstone infotech — data migration platforms, rag pipelines, llm-driven automation.
+
+currently going deeper into deep learning fundamentals and agentic ai systems.
+
+if you're building with llms, backend systems, or automation pipelines — **let's talk**
+
+---
+
+## profile stats
+
+![Profile views](https://komarev.com/ghpvc/?username=somanathan00&color=blueviolet&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/somanathan00?style=flat&color=blueviolet)
 
 ## Featured Projects
 
-- **RAG-Based Intelligent Chat Application** — Context-aware Q&A system using LangChain, embeddings, and vector search
-- **AI-Based Data Extraction System** — Automated data extraction pipeline using Python and Selenium with structured storage and validation
-- **Customer Churn Prediction System** — End-to-end ML pipeline with scikit-learn for churn prediction
+- **[RAG-Based Intelligent Chat Application](https://github.com/somanathan00/chatbot-genai-_project)** — context-aware Q&A using LangChain, embeddings, and vector search
+- **[AI-Based Data Extraction System](https://github.com/somanathan00/machine_learing)** — automated extraction pipeline with Python + Selenium
+- **[Customer Churn Prediction](https://github.com/somanathan00/machine_learing)** — end-to-end ML pipeline with scikit-learn
 
+---
+
+b.tech in information technology · prince shri venkateshwara padmavathy engineering college, chennai · 2019–2023
